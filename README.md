@@ -1,3 +1,6 @@
+# 🔐 Secure UDP & DTLS Communication  
+### **Replay Attacks • Spoofing • DTLS Anti-Replay • TCP+TLS • ICMP Tunneling**
+
 This project explores the security differences between insecure UDP communication and secure DTLS communication. It demonstrates how plaintext UDP traffic can be easily spoofed, intercepted, or replayed, and then shows how DTLS protects the same communication channel using encryption, certificate-based authentication, integrity checks, and anti-replay mechanisms.
 
 The project is divided into multiple modules:
